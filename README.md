@@ -1,3 +1,3 @@
 # upgrade
-hello github
-Today i want to do a project.this project is to practice curd
+Hello github,
+today i want to do a project.this project is to practice curd
